@@ -1,0 +1,1 @@
+# plugins-display-featured-image-genesis
